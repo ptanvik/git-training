@@ -1,8 +1,8 @@
-# Git training session
+# Git Training Session
 
-## trainers
+## Trainers
 - 3
 
 
-## trainees
+## Trainees
 - 35
