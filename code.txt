@@ -4,3 +4,8 @@ rettf
 tre
 ythtrh
 tertre
+vfhf
+rgretr
+rtre
+git diff --staged => diff of last commit vs added
+git diff => committed vs working directory / unstaged
